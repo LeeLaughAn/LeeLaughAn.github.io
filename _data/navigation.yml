@@ -5,12 +5,12 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Project"    #原“portfolio”
+  - title: "Project"    #原“portfolio”  #原第4项
     url: /portfolio/
+
+  - title: "Teaching"    #原第3项
+    url: /teaching/    
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
